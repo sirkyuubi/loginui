@@ -1,0 +1,19 @@
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+    background-image: linear-gradient(0deg, rgb(70, 197, 70), darkgreen);
+}
+
+.height-98 {
+    height: 98%;
+}
+
+.login-padding {
+    padding: 20px;
+}
+
+.login-border {
+    border-radius: 5px;
+}
